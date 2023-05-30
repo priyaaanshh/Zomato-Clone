@@ -1,0 +1,11 @@
+.delivery-collection{
+    background-color: var(--inactive-color);
+    width: 100%;
+    padding: 40px 0px;
+}
+.collection-title{
+    font: 30px;
+    line-height: 1.2;
+    margin: 0px 0px 32px;
+    font-weight:bold;
+}
